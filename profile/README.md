@@ -10,5 +10,5 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-hello@nterlabs.io
+hello@nterlabs.com
 </p>
